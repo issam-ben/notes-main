@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "2f6c94f0d1c3cb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "64ce9a4fcc6c9389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4588f22673fd0862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Resources/Learning/CKA/01.Cluster Architecture, Installation and Configuration/01.Role-Based Access Control.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.Role-Based Access Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "147460810bc155ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a62342baad68d05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69bfe4d8e4620388",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "94940b54f3d1ba88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9116219ba3b93c1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bbd343b05776b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fade4fa09968c10c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5df7ab8bc17316fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3-Resources/Learning/CKA/01.Cluster Architecture, Installation and Configuration/01.Role-Based Access Control.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01.Role-Based Access Control"
+            }
+          },
+          {
+            "id": "5a55aa43f41cc843",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1f66b67259e3a2f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "50116fbd6600ba40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c80fa4404e864219",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false,
+      "obsidian-omnivore:Omnivore": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:Import from Todoist": false,
+      "cmdr:Create Something": false,
+      "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "69bfe4d8e4620388",
+  "lastOpenFiles": [
+    "githubcli.pub",
+    "githubcli",
+    "3-Resources/Learning/LFCS/04-Networking/04.Configure Packet Filtering (Firewall).md",
+    "3-Resources/Learning/My Machine/Linux/Libvirt/things/Share a folder from guest vm to host using nfs.md",
+    "3-Resources/Learning/Programming/Write Great Code/00.assets/tally-slash.png",
+    "3-Resources/Learning/Programming/Write Great Code/00.assets/tally-slash.svg",
+    "3-Resources/Learning/My Machine/Linux/Libvirt/Errors/Common with me.md",
+    "3-Resources/Learning/Programming/00.C Programming/00.Introduction to Computers and C/01.Syntax.md",
+    "3-Resources/Learning/My Machine/Linux/Command Line/00-Commands to Learn.md",
+    "3-Resources/Learning/My Machine/Linux/Command Line/Openssl.md",
+    "3-Resources/Learning/My Machine/Linux/Command Line/ls Command.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Availability.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Integrity.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Confidentiality.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Privacy.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Non-Repudiation.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Authentication.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/00.CIA Triad.md",
+    "3-Resources/Learning/LFCS/04-Networking/99.Appendixes/Routes +.md",
+    "3-Resources/Learning/LFCS/04-Networking/99.Appendixes/00. Network Config tools.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.2 - Understand the risk management process/Risk Management.md",
+    "3-Resources/Learning/Programming/Write Great Code/Chapter 2 - Numerical Representation.md",
+    "3-Resources/Learning/My Machine/Obsidian/Make Digital life System.md",
+    "3-Resources/Learning/LFCS/01-Essential Commands/03. Create, delete, copy, and move files and directories.md",
+    "3-Resources/Learning/LFCS/01-Essential Commands/16.Git - Basic Operations.md",
+    "3-Resources/Learning/LFCS/01-Essential Commands/15.Work with SSL certificates.md",
+    "3-Resources/Learning/My Machine/Linux/Libvirt/things",
+    "3-Resources/Learning/My Machine/Linux/Libvirt/Errors",
+    "3-Resources/Learning/Programming/Write Great Code/00.assets",
+    "3-Resources/Learning/Programming/00.C Programming/01.Intro to C Programming",
+    "3-Resources/Learning/Programming/00.C Programming/00.Introduction to Computers and C",
+    "3-Resources/Learning/My Machine/Linux/SSH",
+    "3-Resources/Learning/My Machine/Linux/Libvirt",
+    "3-Resources/Learning/My Machine/Linux/Command Line",
+    "3-Resources/Learning/My Machine/Linux/Bash_Scripting",
+    "3-Resources/Learning/My Machine/Linux/Arch Linux Installation.md",
+    "3-Resources/Learning/LFCS/04-Networking/03.Configure Bridge and Bonding Devices.md",
+    "3-Resources/Learning/LFCS/04-Networking/02.Start, Stop, and Check Status of Network Services.md",
+    "3-Resources/Learning/LFCS/02-Operations Deployment/Boot proccess.canvas",
+    "3-Resources/Learning/LFCS/01-Essential Commands/Linux-redirection-normal-flow.png",
+    "3-Resources/Learning/ISC2 CC/Untitled.canvas"
+  ]
+}

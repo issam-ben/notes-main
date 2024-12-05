@@ -1,0 +1,6 @@
+- grep
+- awk
+- sed
+- lsof
+- ps
+- 

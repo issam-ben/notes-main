@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cb233c99966ae126","type":"group","x":-660,"y":-50,"width":290,"height":270,"label":"BIOS/UEFI"},
+		{"id":"bedd3e0cbf4a016a","type":"text","text":"1- Power on","x":-880,"y":-30,"width":180,"height":60},
+		{"id":"e3b7e830800972e2","type":"text","text":"2.1- Power On Self Test (POST)","x":-640,"y":60,"width":250,"height":60},
+		{"id":"464cdc9e3b6fb242","type":"text","text":"2.2- Load Bootloader","x":-640,"y":140,"width":250,"height":60},
+		{"id":"54c345a1f40cc419","type":"text","text":"2- BIOS/UEFI","x":-615,"y":-30,"width":200,"height":60},
+		{"id":"2809f19c7f9ba7a5","type":"text","text":"3- Grub","x":-340,"y":-30,"width":140,"height":60},
+		{"id":"071c80e745c6b8d0","type":"text","text":"4- Kernel","x":-180,"y":-30,"width":160,"height":60},
+		{"id":"d5b58c3c433f44e5","type":"text","text":"5- Init","x":0,"y":-30,"width":120,"height":60}
+	],
+	"edges":[]
+}

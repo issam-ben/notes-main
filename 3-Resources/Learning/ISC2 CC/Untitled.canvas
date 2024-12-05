@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"49a59bbd7f93a4cc","type":"text","text":"Confidentiality","x":-120,"y":-620,"width":250,"height":60},
+		{"id":"1e89eeec75f14485","type":"text","text":"Availability","x":130,"y":-500,"width":250,"height":60},
+		{"id":"7f85dedad1870c27","type":"text","text":"Integrity","x":-370,"y":-500,"width":250,"height":60}
+	],
+	"edges":[]
+}
