@@ -1,25 +1,34 @@
 {
   "main": {
-    "id": "2f6c94f0d1c3cb26",
+    "id": "0fbfd6bd6dd7f1de",
     "type": "split",
     "children": [
       {
-        "id": "64ce9a4fcc6c9389",
+        "id": "f30088f849ff6704",
         "type": "tabs",
         "children": [
           {
-            "id": "4588f22673fd0862",
+            "id": "f58ef141d48e4746",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resources/Learning/CKA/01.Cluster Architecture, Installation and Configuration/01.Role-Based Access Control.md",
+                "file": "3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "01.Role-Based Access Control"
+              "title": "01.List, Create, Delete, and Modify Physical Storage Partitions"
             }
           }
         ]
@@ -28,27 +37,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "147460810bc155ed",
+    "id": "298b223223de134a",
     "type": "split",
     "children": [
       {
-        "id": "2a62342baad68d05",
+        "id": "c7338cd7316ab834",
         "type": "tabs",
         "children": [
           {
-            "id": "69bfe4d8e4620388",
+            "id": "dade13fa1f6f62d7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "94940b54f3d1ba88",
+            "id": "8074c066afa917a8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,6 +73,16 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "80c5dbe45f5ca485",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ]
       }
@@ -71,15 +91,15 @@
     "width": 300
   },
   "right": {
-    "id": "9116219ba3b93c1b",
+    "id": "01c05ec8b230b6ba",
     "type": "split",
     "children": [
       {
-        "id": "2bbd343b05776b17",
+        "id": "2fa0eaee6bb4a5d4",
         "type": "tabs",
         "children": [
           {
-            "id": "fade4fa09968c10c",
+            "id": "9474e122dad4118c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,21 +117,20 @@
             }
           },
           {
-            "id": "5df7ab8bc17316fa",
+            "id": "01394c31ef43effc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Resources/Learning/CKA/01.Cluster Architecture, Installation and Configuration/01.Role-Based Access Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01.Role-Based Access Control"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5a55aa43f41cc843",
+            "id": "0553cf105e5b4f9b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,7 +143,17 @@
             }
           },
           {
-            "id": "a1f66b67259e3a2f",
+            "id": "25fa4c7ec9d0de98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bca8717c0a3e432b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -138,89 +167,79 @@
             }
           },
           {
-            "id": "50116fbd6600ba40",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "c80fa4404e864219",
+            "id": "ee693495da318a59",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
-      "obsidian-omnivore:Omnivore": false,
       "templater-obsidian:Templater": false,
       "cmdr:Import from Todoist": false,
       "cmdr:Create Something": false,
       "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "69bfe4d8e4620388",
+  "active": "f58ef141d48e4746",
   "lastOpenFiles": [
-    "githubcli.pub",
-    "githubcli",
+    "3-Resources/Learning/My Machine/Linux/Libvirt/things/0.Common Things.md",
+    "3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md",
     "3-Resources/Learning/LFCS/04-Networking/04.Configure Packet Filtering (Firewall).md",
+    "3-Resources/Learning/LFCS/05-Storage",
+    "3-Resources/Learning/LFCS/Untitled",
+    "3-Resources/Learning/LFCS/04-Networking/02.Start, Stop, and Check Status of Network Services.md",
+    "3-Resources/Learning/LFCS/04-Networking/03.Configure Bridge and Bonding Devices.md",
     "3-Resources/Learning/My Machine/Linux/Libvirt/things/Share a folder from guest vm to host using nfs.md",
-    "3-Resources/Learning/Programming/Write Great Code/00.assets/tally-slash.png",
-    "3-Resources/Learning/Programming/Write Great Code/00.assets/tally-slash.svg",
     "3-Resources/Learning/My Machine/Linux/Libvirt/Errors/Common with me.md",
-    "3-Resources/Learning/Programming/00.C Programming/00.Introduction to Computers and C/01.Syntax.md",
-    "3-Resources/Learning/My Machine/Linux/Command Line/00-Commands to Learn.md",
+    "3-Resources/Learning/Programming/Write Great Code/00.assets/tally-slash.svg",
+    "3-Resources/Learning/Programming/Write Great Code/00.assets/tally-slash.png",
     "3-Resources/Learning/My Machine/Linux/Command Line/Openssl.md",
     "3-Resources/Learning/My Machine/Linux/Command Line/ls Command.md",
-    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Availability.md",
-    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Integrity.md",
-    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Confidentiality.md",
-    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Privacy.md",
-    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Non-Repudiation.md",
-    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Authentication.md",
-    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/00.CIA Triad.md",
+    "3-Resources/Learning/My Machine/Linux/Command Line/00-Commands to Learn.md",
+    "3-Resources/Learning/Programming/00.C Programming/00.Introduction to Computers and C/01.Syntax.md",
     "3-Resources/Learning/LFCS/04-Networking/99.Appendixes/Routes +.md",
     "3-Resources/Learning/LFCS/04-Networking/99.Appendixes/00. Network Config tools.md",
     "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.2 - Understand the risk management process/Risk Management.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Privacy.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Non-Repudiation.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Integrity.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Confidentiality.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Availability.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Authentication.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/00.CIA Triad.md",
     "3-Resources/Learning/Programming/Write Great Code/Chapter 2 - Numerical Representation.md",
+    "3-Resources/Learning/My Machine/Linux/Arch Linux Installation.md",
     "3-Resources/Learning/My Machine/Obsidian/Make Digital life System.md",
-    "3-Resources/Learning/LFCS/01-Essential Commands/03. Create, delete, copy, and move files and directories.md",
+    "3-Resources/Learning/LFCS/01-Essential Commands/Linux-redirection-normal-flow.png",
     "3-Resources/Learning/LFCS/01-Essential Commands/16.Git - Basic Operations.md",
     "3-Resources/Learning/LFCS/01-Essential Commands/15.Work with SSL certificates.md",
-    "3-Resources/Learning/My Machine/Linux/Libvirt/things",
-    "3-Resources/Learning/My Machine/Linux/Libvirt/Errors",
-    "3-Resources/Learning/Programming/Write Great Code/00.assets",
-    "3-Resources/Learning/Programming/00.C Programming/01.Intro to C Programming",
-    "3-Resources/Learning/Programming/00.C Programming/00.Introduction to Computers and C",
-    "3-Resources/Learning/My Machine/Linux/SSH",
-    "3-Resources/Learning/My Machine/Linux/Libvirt",
-    "3-Resources/Learning/My Machine/Linux/Command Line",
-    "3-Resources/Learning/My Machine/Linux/Bash_Scripting",
-    "3-Resources/Learning/My Machine/Linux/Arch Linux Installation.md",
-    "3-Resources/Learning/LFCS/04-Networking/03.Configure Bridge and Bonding Devices.md",
-    "3-Resources/Learning/LFCS/04-Networking/02.Start, Stop, and Check Status of Network Services.md",
     "3-Resources/Learning/LFCS/02-Operations Deployment/Boot proccess.canvas",
-    "3-Resources/Learning/LFCS/01-Essential Commands/Linux-redirection-normal-flow.png",
-    "3-Resources/Learning/ISC2 CC/Untitled.canvas"
+    "3-Resources/Learning/ISC2 CC/Untitled.canvas",
+    "_Scripts/view.js",
+    "_Scripts/view.css",
+    "_Scripts/tasksync.js",
+    "_Scripts/somedaysync.js",
+    "_Scripts/projectsync.js",
+    "_Scripts/passionsync.js",
+    "_Media/24-01-04_15-52-03_Obsidian.png",
+    "package.json",
+    "package-lock.json"
   ]
 }

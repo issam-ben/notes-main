@@ -92,5 +92,14 @@
       ],
       "key": "U"
     }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-IEEE-URL": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
   ]
 }

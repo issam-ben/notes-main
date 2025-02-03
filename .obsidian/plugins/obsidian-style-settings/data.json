@@ -7,5 +7,9 @@
   "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light"
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-nord-light",
+  "anuppuccin-theme-settings@@anp-preview-width-pct": 80,
+  "anuppuccin-theme-settings@@file-margins": 32,
+  "anuppuccin-theme-settings@@anp-toggle-preview": true,
+  "anuppuccin-theme-settings@@file-line-width": 1000
 }
