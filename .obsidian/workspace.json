@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 01.List, Create, Delete, and Modify Physical Storage Partitions"
             }
           },
           {
@@ -180,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
