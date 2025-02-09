@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "01c05ec8b230b6ba",
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +201,14 @@
   },
   "active": "f58ef141d48e4746",
   "lastOpenFiles": [
-    "3-Resources/Learning/My Machine/Linux/Libvirt/things/0.Common Things.md",
+    "3-Resources/Learning/LFCS/01-Essential Commands/15.Work with SSL certificates.md",
+    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Integrity.md",
+    "0-Inbox/social engineering.md",
+    "3-Resources/Learning/Programming/00.C Programming/00.Introduction to Computers and C/01.Syntax.md",
+    "0-Inbox/' + currentMoment.format('YYYY-MM.md",
     "3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md",
+    "-Daily-Notes/2025-02-03.md",
+    "3-Resources/Learning/My Machine/Linux/Libvirt/things/0.Common Things.md",
     "3-Resources/Learning/LFCS/04-Networking/04.Configure Packet Filtering (Firewall).md",
     "3-Resources/Learning/LFCS/05-Storage",
     "3-Resources/Learning/LFCS/Untitled",
@@ -213,23 +221,17 @@
     "3-Resources/Learning/My Machine/Linux/Command Line/Openssl.md",
     "3-Resources/Learning/My Machine/Linux/Command Line/ls Command.md",
     "3-Resources/Learning/My Machine/Linux/Command Line/00-Commands to Learn.md",
-    "3-Resources/Learning/Programming/00.C Programming/00.Introduction to Computers and C/01.Syntax.md",
     "3-Resources/Learning/LFCS/04-Networking/99.Appendixes/Routes +.md",
     "3-Resources/Learning/LFCS/04-Networking/99.Appendixes/00. Network Config tools.md",
     "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.2 - Understand the risk management process/Risk Management.md",
     "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Privacy.md",
     "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Non-Repudiation.md",
-    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Integrity.md",
     "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Confidentiality.md",
     "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Availability.md",
     "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Authentication.md",
     "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/00.CIA Triad.md",
     "3-Resources/Learning/Programming/Write Great Code/Chapter 2 - Numerical Representation.md",
-    "3-Resources/Learning/My Machine/Linux/Arch Linux Installation.md",
-    "3-Resources/Learning/My Machine/Obsidian/Make Digital life System.md",
     "3-Resources/Learning/LFCS/01-Essential Commands/Linux-redirection-normal-flow.png",
-    "3-Resources/Learning/LFCS/01-Essential Commands/16.Git - Basic Operations.md",
-    "3-Resources/Learning/LFCS/01-Essential Commands/15.Work with SSL certificates.md",
     "3-Resources/Learning/LFCS/02-Operations Deployment/Boot proccess.canvas",
     "3-Resources/Learning/ISC2 CC/Untitled.canvas",
     "_Scripts/view.js",
