@@ -1,0 +1,45 @@
+{
+	"directoryView": {
+		"openDirectories": [
+			"FILES/3-Resources",
+			"FILES/3-Resources/Learning",
+			"FILES/3-Resources/Learning/LFCS",
+			"FILES/3-Resources/Learning/LFCS/05-Storage"
+		],
+		"selection": [
+			"FILES/3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md"
+		],
+		"sortMode": "name|ascending",
+		"sortFoldersToTop": true,
+		"sortQueriesToTop": true
+	},
+	"tagTreeView": {
+		"openDirectories": [],
+		"selection": [
+			"FILES/3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md"
+		],
+		"sortMode": "name|ascending",
+		"sortFoldersToTop": true,
+		"sortQueriesToTop": true
+	},
+	"leftSidebar": {
+		"size": 300,
+		"mode": 1,
+		"lastUnfocusedMode": 1,
+		"lastFocusedMode": 0,
+		"currentTab": "files"
+	},
+	"targetFocusModeLevel": 2,
+	"system": {
+		"showMenu": false,
+		"section": null
+	},
+	"version": 2,
+	"window_state": {
+		"x": 0,
+		"y": 0,
+		"width": 1920,
+		"height": 1036,
+		"fullscreen": false
+	}
+}

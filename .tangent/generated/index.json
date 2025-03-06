@@ -1,0 +1,4363 @@
+{
+	"version": 1,
+	"date": "2025-03-04T12:11:44.293Z",
+	"items": {
+		"FILES/-Daily-Notes/2025-02-03.md": {
+			"modified": "2025-02-24T15:33:14.793Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 132,
+					"data": {
+						"title": "2025-02-03",
+						"date": "2025-02-03 21:34:00",
+						"lastmod": "2025-02-03 21:34:00",
+						"categories": null,
+						"tags": "daily-notes",
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "daily-notes",
+					"to": "#/DAILY-NOTES"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "2025-02-03",
+					"start": 134,
+					"end": 146
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 150,
+					"end": 158,
+					"href": "2025",
+					"context": "❮ [[2025]] / [[2025-Q1|Q1]] / [[2025-02|February]] / [[2025-W06|Week 06]] ❯",
+					"to": "FILES/2025.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 161,
+					"end": 175,
+					"href": "2025-Q1",
+					"text": "Q1",
+					"context": "❮ [[2025]] / [[2025-Q1|Q1]] / [[2025-02|February]] / [[2025-W06|Week 06]] ❯",
+					"to": "FILES/2025-Q1.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 178,
+					"end": 198,
+					"href": "2025-02",
+					"text": "February",
+					"context": "❮ [[2025]] / [[2025-Q1|Q1]] / [[2025-02|February]] / [[2025-W06|Week 06]] ❯",
+					"to": "FILES/2025-02.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 201,
+					"end": 221,
+					"href": "2025-W06",
+					"text": "Week 06",
+					"context": "❮ [[2025]] / [[2025-Q1|Q1]] / [[2025-02|February]] / [[2025-W06|Week 06]] ❯",
+					"to": "FILES/2025-W06.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 227,
+					"end": 252,
+					"href": "2025-02-02",
+					"text": "Sunday 2nd",
+					"context": "❮ [[2025-02-02|Sunday 2nd]] | Monday 3rd | [[2025-02-04|Tuesday 4th]] ❯",
+					"to": "FILES/2025-02-02.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 268,
+					"end": 294,
+					"href": "2025-02-04",
+					"text": "Tuesday 4th",
+					"context": "❮ [[2025-02-02|Sunday 2nd]] | Monday 3rd | [[2025-02-04|Tuesday 4th]] ❯",
+					"to": "FILES/2025-02-04.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Today ",
+					"start": 298,
+					"end": 309
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 789,
+					"end": 794,
+					"href": "next",
+					"context": "> tags include #next",
+					"to": "#/NEXT"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Notes ",
+					"start": 886,
+					"end": 897
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Inbox ",
+					"start": 901,
+					"end": 912
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Dashboard ",
+					"start": 959,
+					"end": 975
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 1808,
+					"end": 1813,
+					"href": "next",
+					"context": "> tags include #next",
+					"to": "#/NEXT"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 2669,
+					"end": 2677,
+					"href": "waiting",
+					"context": "> tags include #waiting",
+					"to": "#/WAITING"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 2823,
+					"end": 2833,
+					"href": "delegated",
+					"context": "> tags include #delegated",
+					"to": "#/DELEGATED"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Passions ",
+					"start": 3497,
+					"end": 3511
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Logs ",
+					"start": 3679,
+					"end": 3689
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Daily Focus & Goals ",
+					"start": 4468,
+					"end": 4496
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Journal ",
+					"start": 4500,
+					"end": 4513
+				}
+			]
+		},
+		"FILES/0-Inbox/' + currentMoment.format('YYYY-MM.md": {
+			"modified": "2025-02-24T15:33:14.929Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 147,
+					"data": null
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": " currentMomentformatYYYY-MM",
+					"start": 149,
+					"end": 184
+				}
+			]
+		},
+		"FILES/0-Inbox/social engineering.md": {
+			"modified": "2025-02-24T15:33:14.930Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 132,
+					"data": {
+						"title": "social engineering",
+						"date": "2025-02-03 21:35:00",
+						"lastmod": "2025-02-03 21:35:00",
+						"categories": null,
+						"tags": null,
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "social engineering",
+					"start": 134,
+					"end": 154
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/CKA/01.Cluster Architecture, Installation and Configuration/01.Role-Based Access Control.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Creating a Subject",
+					"start": 942,
+					"end": 963
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "User accounts and groups",
+					"start": 1271,
+					"end": 1299
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Steps of Creating a user using OpenSSL",
+					"start": 2183,
+					"end": 2227
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "ServiceAccounts",
+					"start": 3616,
+					"end": 3635
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Default Service Accounts",
+					"start": 4422,
+					"end": 4451
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Use cases",
+					"start": 4871,
+					"end": 4885
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Using ServiceAccounts",
+					"start": 5352,
+					"end": 5378
+				},
+				{
+					"type": 2,
+					"level": 5,
+					"text": "Creating ServiceAccounts",
+					"start": 5380,
+					"end": 5410
+				},
+				{
+					"type": 2,
+					"level": 5,
+					"text": "Listing ServiceAccounts",
+					"start": 5555,
+					"end": 5584
+				},
+				{
+					"type": 2,
+					"level": 5,
+					"text": "ServiceAccount Details",
+					"start": 5715,
+					"end": 5743
+				},
+				{
+					"type": 2,
+					"level": 5,
+					"text": "Assigning a ServiceAccount to a Pod",
+					"start": 5898,
+					"end": 5939
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/00.CIA Triad.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 129,
+					"end": 148,
+					"href": "Confidentiality",
+					"context": "[[Confidentiality]]: is the concept that information must be accessed by only authorized users.",
+					"to": "FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Confidentiality.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 225,
+					"end": 238,
+					"href": "Integrity",
+					"context": "[[Integrity]]: means that information aren't tempered with or modified by an undesirable party.",
+					"to": "FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Integrity.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 321,
+					"end": 337,
+					"href": "Availability",
+					"context": "[[Availability]]: means that the information is always available/ accessible by authorized parties.",
+					"to": "FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Availability.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 425,
+					"end": 444,
+					"href": "Non-Repudiation",
+					"context": "[[Non-Repudiation]]: means that ensuring that an actor cannot dispute its own act.",
+					"to": "FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Non-Repudiation.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 508,
+					"end": 526,
+					"href": "Authentication",
+					"context": "[[Authentication]]:",
+					"to": "FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Authentication.md"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Authentication.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Access Control",
+					"start": 60,
+					"end": 77
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Password Policies",
+					"start": 480,
+					"end": 501
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Authentication Factors",
+					"start": 1681,
+					"end": 1707
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Multi-Factor Authentication",
+					"start": 2310,
+					"end": 2341
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Availability.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Risks against ",
+					"start": 81,
+					"end": 99
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 103,
+					"end": 132,
+					"href": "Denial of service attacks",
+					"context": "1- [[Denial of service attacks]]: (DoS), occurs when a malicious party bombards a system with an overwhelming network traffic. ",
+					"to": "FILES/Denial of service attacks.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 715,
+					"end": 729,
+					"href": "redundancy",
+					"context": "\t-Protection: Ensure building systems with [[redundancy]] in mind, if one fails another is ready to take responsibility.",
+					"to": "FILES/redundancy.md"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Confidentiality.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Risks against confidentiality",
+					"start": 98,
+					"end": 131
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Integrity.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Risks against Integrity",
+					"start": 308,
+					"end": 335
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 898,
+					"end": 920,
+					"href": "social engineering",
+					"context": "2- Impersonation: it is when an attacker pretends to be someone else (one who has access) to convince them to change data. it is related to [[social engineering]], and the best defense against it is strong user education.",
+					"to": "FILES/0-Inbox/social engineering.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1076,
+					"end": 1088,
+					"href": "attacker",
+					"context": "3- Man in the Middle: it is an impersonation attack but on the electronic level, it is when an [[attacker]] sits between a user that wants to login into a [[system]], the attackers impersonates the system making the user think it connected to the real system, then the attacker forwards the packets between them.",
+					"to": "FILES/attacker.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1136,
+					"end": 1146,
+					"href": "system",
+					"context": "3- Man in the Middle: it is an impersonation attack but on the electronic level, it is when an [[attacker]] sits between a user that wants to login into a [[system]], the attackers impersonates the system making the user think it connected to the real system, then the attacker forwards the packets between them.",
+					"to": "FILES/system.md"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Non-Repudiation.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 149,
+					"end": 170,
+					"href": "Security Controls",
+					"context": "* [[Security Controls]] (Biometric,...)",
+					"to": "FILES/Security Controls.md"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Privacy.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Types of private information",
+					"start": 116,
+					"end": 147
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 203,
+					"end": 246,
+					"href": "Personally identifiable information PII",
+					"context": " [[Personally identifiable information PII]] : includes all the info that can be tied back to an individual.",
+					"to": "FILES/Personally identifiable information PII.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 312,
+					"end": 348,
+					"href": "Protected Health Information PHI",
+					"context": " [[Protected Health Information PHI]]: Includes health care records,...",
+					"to": "FILES/Protected Health Information PHI.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Expectation of Privacy",
+					"start": 383,
+					"end": 408
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 466,
+					"end": 503,
+					"href": "Reasonable Expectation of Privacy",
+					"context": "Privacy programs are based on a legal principle known as [[Reasonable Expectation of Privacy]] which means that based on an individual act we can determine whether they are expecting privacy or not, like someone posting a public post on social media, in which he doesn't expect privacy in contrast with someone sending an email, or providing tax information to a government's agency website, he would expect much higher privacy. ",
+					"to": "FILES/Reasonable Expectation of Privacy.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Privacy Management Framework PMF",
+					"start": 840,
+					"end": 875
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Management",
+					"start": 1446,
+					"end": 1460
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.2 - Understand the risk management process/Risk Management.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Risk types",
+					"start": 191,
+					"end": 204
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "InternalExternal risks",
+					"start": 205,
+					"end": 232
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Internal risk ",
+					"start": 233,
+					"end": 253
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "External risk ",
+					"start": 449,
+					"end": 469
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Multiparty Risks",
+					"start": 935,
+					"end": 955
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Specific Risks",
+					"start": 1142,
+					"end": 1160
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Legacy Systems",
+					"start": 1161,
+					"end": 1180
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Intellectual Property ",
+					"start": 1437,
+					"end": 1464
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Software License Compliance",
+					"start": 1599,
+					"end": 1631
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/01.Log into local & remote graphical and text mode consoles.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Log in",
+					"start": 0,
+					"end": 8
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 104,
+					"end": 122,
+					"href": "Authentication",
+					"context": "is the process by which an individual gains access to a computer system, by identification and [[Authentication]]. ",
+					"to": "FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Authentication.md"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Local & Remote",
+					"start": 125,
+					"end": 141
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "local ",
+					"start": 142,
+					"end": 152
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Remote",
+					"start": 197,
+					"end": 207
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "GUI & CLI",
+					"start": 335,
+					"end": 346
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Further Reading",
+					"start": 1705,
+					"end": 1723
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/02.Read, and use system documentation.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "How to get help about a command",
+					"start": 0,
+					"end": 33
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "--help option ",
+					"start": 34,
+					"end": 52
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "man Command",
+					"start": 1124,
+					"end": 1137
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "man Sections",
+					"start": 1169,
+					"end": 1185
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "aprpos Command",
+					"start": 2184,
+					"end": 2200
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/03. Create, delete, copy, and move files and directories.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "List files and directories",
+					"start": 0,
+					"end": 28
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "ls Command",
+					"start": 30,
+					"end": 43
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Linux file-system tree",
+					"start": 185,
+					"end": 209
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Filesystem function",
+					"start": 426,
+					"end": 449
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Directory Structure",
+					"start": 870,
+					"end": 893
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Absolute paths",
+					"start": 6731,
+					"end": 6749
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Relative paths",
+					"start": 6957,
+					"end": 6975
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Listing files and directories",
+					"start": 7296,
+					"end": 7327
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Current working directory",
+					"start": 8061,
+					"end": 8088
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Change current directory",
+					"start": 8281,
+					"end": 8307
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Creating files",
+					"start": 8746,
+					"end": 8762
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Creating directories",
+					"start": 8873,
+					"end": 8895
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Copying files",
+					"start": 8991,
+					"end": 9006
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Copying directories",
+					"start": 9214,
+					"end": 9235
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Moving files",
+					"start": 9369,
+					"end": 9383
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Deleting files and Directories",
+					"start": 9461,
+					"end": 9493
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Other Notes",
+					"start": 9619,
+					"end": 9632
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Resources",
+					"start": 9843,
+					"end": 9854
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/04. Create and manage hard and soft links.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Inode",
+					"start": 0,
+					"end": 7
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "What for ",
+					"start": 101,
+					"end": 114
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "How data is stored on disk ",
+					"start": 115,
+					"end": 147
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "info stored in inode",
+					"start": 627,
+					"end": 650
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Hard Links",
+					"start": 879,
+					"end": 891
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Soft Links",
+					"start": 1792,
+					"end": 1804
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Resources",
+					"start": 2315,
+					"end": 2326
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/05.List, set, and change standard file permissions.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Owners and Groups",
+					"start": 173,
+					"end": 192
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Permissions ",
+					"start": 476,
+					"end": 490
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Types of ls Listing",
+					"start": 491,
+					"end": 513
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Permission codes",
+					"start": 1027,
+					"end": 1046
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Evaluating Permissions",
+					"start": 1493,
+					"end": 1518
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Change Permissions",
+					"start": 1795,
+					"end": 1816
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Remove permissions",
+					"start": 2011,
+					"end": 2032
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Set exact permissions",
+					"start": 2155,
+					"end": 2179
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Chain Permissions",
+					"start": 2276,
+					"end": 2296
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Octal Permissions",
+					"start": 2393,
+					"end": 2413
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Resources",
+					"start": 3241,
+					"end": 3252
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3402,
+					"end": 3423,
+					"href": "To_ReEvaluate_Myself",
+					"context": "#To_ReEvaluate_Myself",
+					"to": "#/TO_REEVALUATE_MYSELF"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3424,
+					"end": 3434,
+					"href": "Redo_labs",
+					"context": "#Redo_labs",
+					"to": "#/REDO_LABS"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/06.SUID, SGID, and Sticky bit.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "SUID",
+					"start": 134,
+					"end": 140
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "SGID",
+					"start": 467,
+					"end": 473
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Sticky Bit",
+					"start": 715,
+					"end": 727
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Combination ",
+					"start": 1357,
+					"end": 1371
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Resources",
+					"start": 1473,
+					"end": 1484
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/07. Search for files.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Find Command",
+					"start": 0,
+					"end": 14
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Search Parameters ",
+					"start": 178,
+					"end": 199
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Multiple options ",
+					"start": 1851,
+					"end": 1872
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Questions to answer",
+					"start": 2255,
+					"end": 2276
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 2327,
+					"end": 2348,
+					"href": "To_ReEvaluate_Myself",
+					"context": "#To_ReEvaluate_Myself",
+					"to": "#/TO_REEVALUATE_MYSELF"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 2349,
+					"end": 2359,
+					"href": "Redo_labs",
+					"context": "#Redo_labs",
+					"to": "#/REDO_LABS"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/08.Evaluate and compare the basic file system features and options.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "View text files",
+					"start": 1,
+					"end": 19
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "cat Command",
+					"start": 20,
+					"end": 34
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "tac Command",
+					"start": 104,
+					"end": 119
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "tail command ",
+					"start": 157,
+					"end": 173
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "head command",
+					"start": 324,
+					"end": 339
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Transform text",
+					"start": 421,
+					"end": 437
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "sed Command",
+					"start": 439,
+					"end": 453
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "replace occurrences of a word in text file",
+					"start": 641,
+					"end": 687
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "View certain parts of a text file",
+					"start": 1271,
+					"end": 1306
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "cut Command",
+					"start": 1308,
+					"end": 1322
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "uniq command",
+					"start": 1775,
+					"end": 1790
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Comparing Files",
+					"start": 2279,
+					"end": 2296
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "diff Command",
+					"start": 2297,
+					"end": 2312
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "sdif",
+					"start": 2498,
+					"end": 2506
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Sources ",
+					"start": 2577,
+					"end": 2587
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/09.Pagers and vi demo.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Pagers",
+					"start": 0,
+					"end": 8
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "less",
+					"start": 105,
+					"end": 112
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Search text",
+					"start": 144,
+					"end": 159
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "more",
+					"start": 432,
+					"end": 439
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "vim",
+					"start": 625,
+					"end": 630
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "vim modes",
+					"start": 876,
+					"end": 888
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Normal mode",
+					"start": 889,
+					"end": 904
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Insert Mode",
+					"start": 1060,
+					"end": 1075
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "X Mode",
+					"start": 1182,
+					"end": 1192
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "X2 Mode",
+					"start": 1194,
+					"end": 1205
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "X2 Mode",
+					"start": 1206,
+					"end": 1217
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "X2 Mode",
+					"start": 1218,
+					"end": 1229
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "X2 Mode",
+					"start": 1230,
+					"end": 1241
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Other Functions",
+					"start": 1243,
+					"end": 1261
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Search ",
+					"start": 1262,
+					"end": 1273
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Jump to Line",
+					"start": 1402,
+					"end": 1418
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Copypastecut a line of text",
+					"start": 1519,
+					"end": 1552
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Quit save",
+					"start": 1771,
+					"end": 1788
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Resources",
+					"start": 1943,
+					"end": 1954
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/10.Search file using Grep.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "grep",
+					"start": 0,
+					"end": 6
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Options",
+					"start": 365,
+					"end": 375
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Case Insensitive search -i",
+					"start": 376,
+					"end": 408
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Search for files under each directory -r--recursive",
+					"start": 969,
+					"end": 1028
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Invert match Exclude keyword -v",
+					"start": 1954,
+					"end": 1993
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Lines that form whole words -w",
+					"start": 2464,
+					"end": 2500
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Only Matching -o",
+					"start": 2851,
+					"end": 2873
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/11. Analyze text using basic regular expressions.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Intro",
+					"start": 0,
+					"end": 7
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Regex Operators",
+					"start": 528,
+					"end": 545
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Caret Line begins with",
+					"start": 546,
+					"end": 575
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "$ Dollar sign Line ends with",
+					"start": 646,
+					"end": 679
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Dot-Period Match any one character",
+					"start": 747,
+					"end": 788
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Backslash Escape character",
+					"start": 1168,
+					"end": 1204
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " asteriskMatch previous elements 0 or more times",
+					"start": 1356,
+					"end": 1410
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Plus Sign match previous one or more times",
+					"start": 1721,
+					"end": 1770
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Bracket match previous n m times",
+					"start": 2300,
+					"end": 2344
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Question mark previous element optional",
+					"start": 2513,
+					"end": 2559
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " PipeOr match one or another pattern",
+					"start": 2726,
+					"end": 2770
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Square Brackets Ranges or sets",
+					"start": 2986,
+					"end": 3024
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Negation",
+					"start": 3282,
+					"end": 3294
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " Parentheses - Subexpressions ",
+					"start": 3792,
+					"end": 3827
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Grouping",
+					"start": 3866,
+					"end": 3878
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Capturing",
+					"start": 4461,
+					"end": 4474
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Sources",
+					"start": 4545,
+					"end": 4554
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "useful tools",
+					"start": 5064,
+					"end": 5078
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 5151,
+					"end": 5165,
+					"href": "practice-more",
+					"context": "#practice-more",
+					"to": "#/PRACTICE-MORE"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/12. Archive, backup, compress, unpack, and uncompress files.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Archiving Packing Compressing and Backup",
+					"start": 0,
+					"end": 45
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Archiving Packing",
+					"start": 608,
+					"end": 629
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Packing files and directories with tar",
+					"start": 1028,
+					"end": 1069
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Packing Archives",
+					"start": 1071,
+					"end": 1091
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Listing Archive Files",
+					"start": 1281,
+					"end": 1306
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Add File to an Archive",
+					"start": 1478,
+					"end": 1504
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "PackAdd Directories and Content to an Archive",
+					"start": 1596,
+					"end": 1646
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Absolute Paths",
+					"start": 1768,
+					"end": 1787
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Extract Archive",
+					"start": 2125,
+					"end": 2144
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Extract to another directory",
+					"start": 2303,
+					"end": 2336
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Compressing and Decompressing",
+					"start": 2685,
+					"end": 2716
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Compressing Files",
+					"start": 2819,
+					"end": 2839
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "gzip",
+					"start": 2840,
+					"end": 2848
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "bzip2",
+					"start": 2867,
+					"end": 2876
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "xz",
+					"start": 2896,
+					"end": 2902
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Decompressing Files",
+					"start": 2919,
+					"end": 2941
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "gzip",
+					"start": 2942,
+					"end": 2950
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "bzip2",
+					"start": 3000,
+					"end": 3009
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "xz",
+					"start": 3062,
+					"end": 3068
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Keeping Original Files",
+					"start": 3286,
+					"end": 3311
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Using Tar with gzip bzip2 xz",
+					"start": 3464,
+					"end": 3498
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Autocompress with tar",
+					"start": 4054,
+					"end": 4079
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "FAQ",
+					"start": 4482,
+					"end": 4487
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Can we Extract archives with tar command ",
+					"start": 4488,
+					"end": 4533
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/13.Backup files to a Remote System (Optional).md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Syncing 2 Directories ",
+					"start": 0,
+					"end": 24
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "rsync Remote Synchronization",
+					"start": 25,
+					"end": 58
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "sync Remote dir As source",
+					"start": 593,
+					"end": 622
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Syncing two or more Directories",
+					"start": 803,
+					"end": 838
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "dd Disk Imaging",
+					"start": 1008,
+					"end": 1028
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Restore disk Image from dd file",
+					"start": 1830,
+					"end": 1865
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/14.Use input-output redirection.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "stdin stdout stderr",
+					"start": 0,
+					"end": 23
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 24,
+					"end": 62,
+					"href": "Linux-redirection-normal-flow.png",
+					"context": "![[Linux-redirection-normal-flow.png]]",
+					"to": "FILES/3-Resources/Learning/LFCS/01-Essential Commands/Linux-redirection-normal-flow.png"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "stdin standard input 0",
+					"start": 504,
+					"end": 531
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "stdout standard output 1",
+					"start": 601,
+					"end": 630
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "stderr standard error 2",
+					"start": 652,
+					"end": 680
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Redirecting Output ",
+					"start": 701,
+					"end": 726
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " stdout Redirect and Overwrite",
+					"start": 853,
+					"end": 889
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": " stdout Redirect and Append",
+					"start": 1071,
+					"end": 1105
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Redirecting Input ",
+					"start": 1627,
+					"end": 1651
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Redirecting Errors",
+					"start": 1653,
+					"end": 1673
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Piping",
+					"start": 1675,
+					"end": 1683
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 1732,
+					"end": 1748,
+					"href": "To_Be_Continued",
+					"context": "#To_Be_Continued",
+					"to": "#/TO_BE_CONTINUED"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/15.Work with SSL certificates.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Overview",
+					"start": 0,
+					"end": 10
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "SSL vs TLS",
+					"start": 11,
+					"end": 24
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "What is SSLTLS ",
+					"start": 359,
+					"end": 379
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 522,
+					"end": 533,
+					"href": "Privacy",
+					"context": "Are encryption based internet security protocol, it was first defined by Netscape in 1995 (called SSL), later TLS, on the purpose of ensuring [[Privacy]], [[Authentication]], [[Integrity]].  ",
+					"to": "FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Privacy.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 535,
+					"end": 553,
+					"href": "Authentication",
+					"context": "Are encryption based internet security protocol, it was first defined by Netscape in 1995 (called SSL), later TLS, on the purpose of ensuring [[Privacy]], [[Authentication]], [[Integrity]].  ",
+					"to": "FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Authentication.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 555,
+					"end": 568,
+					"href": "Integrity",
+					"context": "Are encryption based internet security protocol, it was first defined by Netscape in 1995 (called SSL), later TLS, on the purpose of ensuring [[Privacy]], [[Authentication]], [[Integrity]].  ",
+					"to": "FILES/3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Integrity.md"
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Why still calling it SSL ",
+					"start": 572,
+					"end": 602
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "What for ",
+					"start": 675,
+					"end": 688
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "SSL Certificates ",
+					"start": 818,
+					"end": 838
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Creating SSL Certificates",
+					"start": 954,
+					"end": 982
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Openssl",
+					"start": 1039,
+					"end": 1052
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1041,
+					"end": 1052,
+					"href": "Openssl",
+					"context": "# [[Openssl]]",
+					"to": "FILES/3-Resources/Learning/My Machine/Linux/Command Line/Openssl.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1053,
+					"end": 1064,
+					"href": "Openssl",
+					"context": "[[Openssl]] can deal with many cryptography related operations, not just certificates, and it provides many sub-commands.",
+					"to": "FILES/3-Resources/Learning/My Machine/Linux/Command Line/Openssl.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Create SSLTLS Certificates with Openssl",
+					"start": 1445,
+					"end": 1488
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Certificate Signing Request CSR",
+					"start": 1489,
+					"end": 1526
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Private Key",
+					"start": 1710,
+					"end": 1725
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Self signing a Certificate",
+					"start": 2116,
+					"end": 2146
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Resources",
+					"start": 2249,
+					"end": 2260
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 2321,
+					"end": 2330,
+					"href": "Not-Good",
+					"context": "#Not-Good",
+					"to": "#/NOT-GOOD"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/16.Git - Basic Operations.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Version Control System",
+					"start": 0,
+					"end": 24
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Git ",
+					"start": 211,
+					"end": 218
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Tips and Tricks",
+					"start": 636,
+					"end": 655
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "17Git - Staging and Committing Changes",
+					"start": 1086,
+					"end": 1127
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Staging",
+					"start": 1129,
+					"end": 1139
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Committing Changes ",
+					"start": 2429,
+					"end": 2451
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Types of Changes",
+					"start": 2727,
+					"end": 2747
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Deleting a file",
+					"start": 2748,
+					"end": 2768
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Branches and Remote Repositories",
+					"start": 2794,
+					"end": 2828
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/01-Essential Commands/Linux-redirection-normal-flow.png": {},
+		"FILES/3-Resources/Learning/LFCS/02-Operations Deployment/01.Boot, Reboot, and Shutdown a System Safely.md": {
+			"modified": "2025-02-24T15:33:14.944Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Using systemctl to Reboot and Shutdown a Linux Machine",
+					"start": 0,
+					"end": 57
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Forcing shutting down and rebooting a linux system",
+					"start": 181,
+					"end": 235
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Double forcing",
+					"start": 324,
+					"end": 343
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Schedule a Reboot or Shutdown of a Linux System",
+					"start": 601,
+					"end": 651
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Schedule a reboot",
+					"start": 823,
+					"end": 844
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Schedule a shutdown",
+					"start": 974,
+					"end": 997
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Setting a wall message",
+					"start": 1255,
+					"end": 1281
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Sources",
+					"start": 1464,
+					"end": 1473
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/02-Operations Deployment/02.Boot or Change System Into Different Operating Modes.md": {
+			"modified": "2025-02-24T15:33:14.945Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Linux Boot Process",
+					"start": 0,
+					"end": 21
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "System Target or Unit File Boot Mode",
+					"start": 990,
+					"end": 1032
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Commonly Used System Targets",
+					"start": 1729,
+					"end": 1762
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Changing Default Boot Target",
+					"start": 2924,
+					"end": 2957
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Change System Target on running system",
+					"start": 3257,
+					"end": 3301
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Other Notes",
+					"start": 3358,
+					"end": 3371
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Sources",
+					"start": 3682,
+					"end": 3691
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/02-Operations Deployment/03.Use Scripting to Automate System Maintenance Tasks.md": {
+			"modified": "2025-02-24T15:33:14.945Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Definition",
+					"start": 0,
+					"end": 13
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "What for",
+					"start": 248,
+					"end": 259
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "How to",
+					"start": 340,
+					"end": 349
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Builtin Commands",
+					"start": 1192,
+					"end": 1211
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "If statement ",
+					"start": 1402,
+					"end": 1419
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Test",
+					"start": 1692,
+					"end": 1700
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Skip it because I need to do a special study on the subject",
+					"start": 1704,
+					"end": 1765
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "References",
+					"start": 1771,
+					"end": 1783
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/02-Operations Deployment/04.Manage Startup Process and Services.md": {
+			"modified": "2025-02-24T15:33:14.945Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Init ",
+					"start": 0,
+					"end": 7
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Systemd",
+					"start": 187,
+					"end": 197
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Terminology",
+					"start": 313,
+					"end": 327
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Systemd units",
+					"start": 374,
+					"end": 391
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Manage systemd services",
+					"start": 474,
+					"end": 502
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 1301,
+					"end": 1310,
+					"href": "sidenote",
+					"context": "> #sidenote: the ==reload== tells the services to reload their configuration, it will not reload the service unit file, it is used to when altering the configuration of a service and then reloading it for the configuration to take effect. and without restarting ir (closing and reopening).",
+					"to": "#/SIDENOTE"
+				},
+				{
+					"type": 2,
+					"level": 5,
+					"text": "Miscellaneous commands",
+					"start": 2016,
+					"end": 2044
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Manage systemd sockets",
+					"start": 2365,
+					"end": 2392
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Manage systemd device",
+					"start": 2394,
+					"end": 2420
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Manage systemd mount",
+					"start": 2421,
+					"end": 2446
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Manage systemd swap",
+					"start": 2447,
+					"end": 2471
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Manage systemd target",
+					"start": 2472,
+					"end": 2498
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Manage systemd path",
+					"start": 2499,
+					"end": 2523
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Manage systemd timers",
+					"start": 2524,
+					"end": 2550
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Manage systemd slice",
+					"start": 2551,
+					"end": 2576
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Manage systemd scopes",
+					"start": 2577,
+					"end": 2603
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Systemd Core",
+					"start": 2606,
+					"end": 2622
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Sytemd Target",
+					"start": 2625,
+					"end": 2642
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Sytemd Daemons",
+					"start": 2645,
+					"end": 2663
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Sytemd Libraries",
+					"start": 2666,
+					"end": 2686
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Sytemd Utilities",
+					"start": 2689,
+					"end": 2709
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/02-Operations Deployment/05. Create Systemd services.md": {
+			"modified": "2025-02-24T15:33:14.945Z"
+		},
+		"FILES/3-Resources/Learning/LFCS/02-Operations Deployment/06.Diagnose and Manage Processes.md": {
+			"modified": "2025-02-24T15:33:14.945Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "What is a process",
+					"start": 0,
+					"end": 20
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Process types in Linux",
+					"start": 67,
+					"end": 93
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Based on their work",
+					"start": 94,
+					"end": 119
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Based on their life",
+					"start": 413,
+					"end": 437
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Resources",
+					"start": 1756,
+					"end": 1768
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/04-Networking/01-1.Configure IPv4 and IPv6 Networking and Hostname Resolution.md": {
+			"modified": "2025-02-24T15:33:14.945Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "IP Address",
+					"start": 0,
+					"end": 12
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "IPv4",
+					"start": 32,
+					"end": 39
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "CIDR Notation",
+					"start": 324,
+					"end": 341
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "IPv6",
+					"start": 847,
+					"end": 854
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/04-Networking/01-2.Configure IPv4 and IPv6 Networking and Hostname Resolution.md": {
+			"modified": "2025-02-24T15:33:14.945Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 3,
+					"text": "IP Addreess",
+					"start": 988,
+					"end": 1003
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Ip route",
+					"start": 2136,
+					"end": 2149
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Start a Network Interface",
+					"start": 2215,
+					"end": 2244
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Manage IP Address Manually to a Network Interface",
+					"start": 2558,
+					"end": 2611
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Set IP Address Automatically",
+					"start": 2747,
+					"end": 2779
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Netplan",
+					"start": 3024,
+					"end": 3036
+				},
+				{
+					"type": 2,
+					"level": 5,
+					"text": "Apply Configuration",
+					"start": 4060,
+					"end": 4085
+				},
+				{
+					"type": 2,
+					"level": 6,
+					"text": "Try Command",
+					"start": 4221,
+					"end": 4239
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 4749,
+					"end": 4765,
+					"href": "To_Be_Continued",
+					"context": "#To_Be_Continued #To_ReEvaluate_Myself ",
+					"to": "#/TO_BE_CONTINUED"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 4766,
+					"end": 4787,
+					"href": "To_ReEvaluate_Myself",
+					"context": "#To_Be_Continued #To_ReEvaluate_Myself ",
+					"to": "#/TO_REEVALUATE_MYSELF"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/04-Networking/02.Start, Stop, and Check Status of Network Services.md": {
+			"modified": "2025-02-24T15:33:14.945Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Inspect listening programs",
+					"start": 449,
+					"end": 478
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/04-Networking/03.Configure Bridge and Bonding Devices.md": {
+			"modified": "2025-02-24T15:33:14.945Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Network Segments ",
+					"start": 0,
+					"end": 20
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Bridging",
+					"start": 147,
+					"end": 158
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Purpose ",
+					"start": 547,
+					"end": 560
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Functionality ",
+					"start": 672,
+					"end": 691
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Use Cases ",
+					"start": 882,
+					"end": 897
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Bonding",
+					"start": 978,
+					"end": 988
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Purpose ",
+					"start": 1285,
+					"end": 1298
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Bonding Modes",
+					"start": 1638,
+					"end": 1655
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Mode 0 Round Robin ",
+					"start": 1780,
+					"end": 1807
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Mode 1 Active-Backup",
+					"start": 2103,
+					"end": 2131
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Mode 2 XOR - Exclusive Or",
+					"start": 2328,
+					"end": 2361
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Mode 3 Broadcast",
+					"start": 2680,
+					"end": 2704
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Mode 4 IEEE 8023ad 8021ax - Dynamic Link Aggregation",
+					"start": 2856,
+					"end": 2920
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Mode 5 Adaptive Transmit Load Balancing",
+					"start": 3121,
+					"end": 3168
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Mode 6 Adaptive Load Balancing",
+					"start": 3791,
+					"end": 3829
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Demo",
+					"start": 4000,
+					"end": 4007
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Resources",
+					"start": 4012,
+					"end": 4023
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/04-Networking/04.Configure Packet Filtering (Firewall).md": {
+			"modified": "2025-02-24T15:33:14.945Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "What is a Firewall",
+					"start": 0,
+					"end": 21
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Types of Firewalls",
+					"start": 298,
+					"end": 319
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Packet Filtering Firewall",
+					"start": 320,
+					"end": 349
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Proxy Firewall",
+					"start": 660,
+					"end": 678
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Types",
+					"start": 946,
+					"end": 956
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Stateful Inspection Firewall",
+					"start": 1113,
+					"end": 1145
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Web Application Firewall WAF",
+					"start": 1146,
+					"end": 1180
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Unified Threat Management Firewall UTM",
+					"start": 1181,
+					"end": 1225
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Next-Generation Firewall",
+					"start": 1226,
+					"end": 1254
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "AI Powered Firewall",
+					"start": 1255,
+					"end": 1278
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Virtual Firewall",
+					"start": 1279,
+					"end": 1299
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Cloud-Native Firewall",
+					"start": 1300,
+					"end": 1325
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Linux Firewalls",
+					"start": 1328,
+					"end": 1346
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Netfilter",
+					"start": 1349,
+					"end": 1362
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "iptables",
+					"start": 1621,
+					"end": 1634
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "ufw",
+					"start": 1636,
+					"end": 1644
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "04Configure Packet Filtering Firewall",
+					"start": 1653,
+					"end": 1695
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/04-Networking/99.Appendixes/00. Network Config tools.md": {
+			"modified": "2025-02-24T15:33:14.945Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "NetworkManager",
+					"start": 0,
+					"end": 17
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Networkd",
+					"start": 19,
+					"end": 30
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Netplan",
+					"start": 32,
+					"end": 42
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/04-Networking/99.Appendixes/Routes +.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Routing",
+					"start": 0,
+					"end": 10
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 412,
+					"end": 428,
+					"href": "To_Be_Continued",
+					"context": "#To_Be_Continued ",
+					"to": "#/TO_BE_CONTINUED"
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "01List Create Delete and Modify Physical Storage Partitions",
+					"start": 0,
+					"end": 65
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Devices",
+					"start": 67,
+					"end": 77
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Block Devices",
+					"start": 1564,
+					"end": 1581
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Block Devices Naming",
+					"start": 1647,
+					"end": 1672
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Partitions ",
+					"start": 2109,
+					"end": 2125
+				},
+				{
+					"type": 2,
+					"level": 5,
+					"text": "Partition Tables",
+					"start": 2430,
+					"end": 2452
+				},
+				{
+					"type": 2,
+					"level": 5,
+					"text": "Partition Types",
+					"start": 3142,
+					"end": 3163
+				},
+				{
+					"type": 2,
+					"level": 5,
+					"text": "Creating Partitions",
+					"start": 3748,
+					"end": 3773
+				},
+				{
+					"type": 2,
+					"level": 5,
+					"text": "Listing Partitions",
+					"start": 4053,
+					"end": 4077
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Filesystems",
+					"start": 4278,
+					"end": 4294
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "RAID",
+					"start": 4296,
+					"end": 4305
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Logical Volume Management LVM",
+					"start": 4307,
+					"end": 4343
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/Math/Overview.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Goal",
+					"start": 219,
+					"end": 226
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Self Assessment ",
+					"start": 443,
+					"end": 466
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Plan",
+					"start": 468,
+					"end": 474
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Materials",
+					"start": 763,
+					"end": 775
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/My Machine/Linux/Arch Linux Installation.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Preparation",
+					"start": 0,
+					"end": 13
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Set the console keyboard layout and font",
+					"start": 14,
+					"end": 57
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Verify the boot mode",
+					"start": 146,
+					"end": 169
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Update the system clock",
+					"start": 305,
+					"end": 331
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Partition the disks",
+					"start": 353,
+					"end": 375
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Mount the root file system",
+					"start": 531,
+					"end": 560
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Installation",
+					"start": 795,
+					"end": 809
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Install core packages",
+					"start": 810,
+					"end": 834
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Install Necessary packages",
+					"start": 888,
+					"end": 917
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Configuring the system",
+					"start": 1045,
+					"end": 1070
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "fstab",
+					"start": 1071,
+					"end": 1080
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Chroot",
+					"start": 1308,
+					"end": 1318
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Time",
+					"start": 1349,
+					"end": 1357
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Localization",
+					"start": 1591,
+					"end": 1607
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Network Configuratio",
+					"start": 2001,
+					"end": 2025
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Create root Password",
+					"start": 2249,
+					"end": 2273
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Install GRUB Bootloader",
+					"start": 2295,
+					"end": 2322
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Create New User",
+					"start": 2560,
+					"end": 2579
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Install Desktop Environment",
+					"start": 2832,
+					"end": 2863
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/My Machine/Linux/Command Line/00-Commands to Learn.md": {
+			"modified": "2025-02-24T15:33:14.946Z"
+		},
+		"FILES/3-Resources/Learning/My Machine/Linux/Command Line/Openssl.md": {
+			"modified": "2025-02-24T15:33:14.946Z"
+		},
+		"FILES/3-Resources/Learning/My Machine/Linux/Command Line/Tools/Storage Tools/fdisk.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "fdisk",
+					"start": 0,
+					"end": 7
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/My Machine/Linux/Command Line/ls Command.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "show the exact time files was modified",
+					"start": 0,
+					"end": 40
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/My Machine/Linux/Libvirt/Errors/Common with me.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "1- Error starting domain Unable to open devnettun is tun module loaded No such device",
+					"start": 1,
+					"end": 95
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Cause",
+					"start": 96,
+					"end": 104
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Solution",
+					"start": 249,
+					"end": 260
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/My Machine/Linux/Libvirt/things/0.Common Things.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "0Common Things",
+					"start": 0,
+					"end": 17
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "1- List libvirt available VMs",
+					"start": 19,
+					"end": 51
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "2- Start a VM network or auto start it",
+					"start": 78,
+					"end": 119
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/My Machine/Linux/Libvirt/things/Share a folder from guest vm to host using nfs.md": {
+			"modified": "2025-02-24T15:33:14.946Z"
+		},
+		"FILES/3-Resources/Learning/My Machine/Obsidian/Make Digital life System.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Para Method",
+					"start": 0,
+					"end": 13
+				}
+			]
+		},
+		"FILES/3-Resources/Learning/Programming/00.C Programming/00.Introduction to Computers and C/01.Syntax.md": {
+			"modified": "2025-02-24T15:33:14.946Z"
+		},
+		"FILES/3-Resources/Learning/Programming/Write Great Code/00.assets/tally-slash.svg": {},
+		"FILES/3-Resources/Learning/Programming/Write Great Code/Chapter 2 - Numerical Representation.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 2,
+					"text": "What is a Number ",
+					"start": 0,
+					"end": 21
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Numbering Systems",
+					"start": 1270,
+					"end": 1290
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Unary Numeral System",
+					"start": 1563,
+					"end": 1587
+				},
+				{
+					"type": 2,
+					"level": 4,
+					"text": "Tally Slash",
+					"start": 1890,
+					"end": 1906
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 2067,
+					"end": 2087,
+					"href": "tally-slash.svg",
+					"context": "![[tally-slash.svg]]",
+					"to": "FILES/3-Resources/Learning/Programming/Write Great Code/00.assets/tally-slash.svg"
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Decimal Positional Numbering System",
+					"start": 2089,
+					"end": 2128
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "Radix Base Values",
+					"start": 2130,
+					"end": 2153
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "The Binary Numbering System",
+					"start": 2155,
+					"end": 2186
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "The Hexadecimal Numbering System",
+					"start": 2188,
+					"end": 2224
+				},
+				{
+					"type": 2,
+					"level": 3,
+					"text": "The Octal Numbering System",
+					"start": 2226,
+					"end": 2256
+				}
+			]
+		},
+		"FILES/5-Templates/Areas.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 220,
+					"data": {
+						"title": "Areas",
+						"date": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"lastmod": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"categories": null,
+						"tags": "areas",
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "areas",
+					"to": "#/AREAS"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Areas",
+					"start": 222,
+					"end": 229
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Projects ",
+					"start": 231,
+					"end": 245
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Recurring ",
+					"start": 249,
+					"end": 264
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Archives ",
+					"start": 268,
+					"end": 283
+				}
+			]
+		},
+		"FILES/5-Templates/Daily-Notes.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 280,
+					"data": {
+						"title": "<% moment(tp.file.title, \"YYYY-MM-DD\").format(\"YYYY-MM-DD\") %>",
+						"date": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"lastmod": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"categories": null,
+						"tags": "daily-notes",
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "daily-notes",
+					"to": "#/DAILY-NOTES"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "% momenttpfiletitle YYYY-MM-DDformatYYYY-MM-DD %",
+					"start": 282,
+					"end": 346
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 544,
+					"end": 584,
+					"href": "' + currentMoment.format('YYYY') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY') + ']]' + slash;",
+					"to": "FILES/' + currentMoment.format('YYYY') + '.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 670,
+					"end": 718,
+					"href": "' + currentMoment.format('YYYY-MM",
+					"text": "MMMM') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM|MMMM') + ']]' + slash;",
+					"to": "FILES/0-Inbox/' + currentMoment.format('YYYY-MM.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 891,
+					"end": 945,
+					"href": "' + currentMoment.format('YYYY-MM-DD",
+					"text": "dddd Do') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM-DD|dddd Do') + ']]' + pipe;",
+					"to": "FILES/' + currentMoment.format('YYYY-MM-DD.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1066,
+					"end": 1120,
+					"href": "' + currentMoment.format('YYYY-MM-DD",
+					"text": "dddd Do') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM-DD|dddd Do') + ']]';",
+					"to": "FILES/' + currentMoment.format('YYYY-MM-DD.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Today ",
+					"start": 1175,
+					"end": 1186
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 1718,
+					"end": 1723,
+					"href": "next",
+					"context": "> tags include #next",
+					"to": "#/NEXT"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Notes ",
+					"start": 1815,
+					"end": 1826
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Inbox ",
+					"start": 1830,
+					"end": 1841
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Dashboard ",
+					"start": 1888,
+					"end": 1904
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3026,
+					"end": 3031,
+					"href": "next",
+					"context": "> tags include #next",
+					"to": "#/NEXT"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3887,
+					"end": 3895,
+					"href": "waiting",
+					"context": "> tags include #waiting",
+					"to": "#/WAITING"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 4041,
+					"end": 4051,
+					"href": "delegated",
+					"context": "> tags include #delegated",
+					"to": "#/DELEGATED"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Passions ",
+					"start": 4715,
+					"end": 4729
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Logs ",
+					"start": 4897,
+					"end": 4907
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Daily Focus & Goals ",
+					"start": 5998,
+					"end": 6026
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Journal ",
+					"start": 6030,
+					"end": 6043
+				}
+			]
+		},
+		"FILES/5-Templates/Filename-Template.md": {
+			"modified": "2025-02-24T15:33:14.946Z"
+		},
+		"FILES/5-Templates/Monthly-Notes.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 276,
+					"data": {
+						"title": "<% moment(tp.file.title, \"YYYY-MM\").format(\"YYYY-MM\") %>",
+						"date": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"lastmod": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"categories": null,
+						"tags": "monthly-notes",
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "monthly-notes",
+					"to": "#/MONTHLY-NOTES"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "% momenttpfiletitle YYYY-MMformatYYYY-MM %",
+					"start": 278,
+					"end": 336
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 531,
+					"end": 571,
+					"href": "' + currentMoment.format('YYYY') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY') + ']]' + slash;",
+					"to": "FILES/' + currentMoment.format('YYYY') + '.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 657,
+					"end": 705,
+					"href": "' + currentMoment.format('YYYY-MM",
+					"text": "MMMM') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM|MMMM') + ']]';",
+					"to": "FILES/0-Inbox/' + currentMoment.format('YYYY-MM.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 806,
+					"end": 854,
+					"href": "' + currentMoment.format('YYYY-MM",
+					"text": "MMMM') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM|MMMM') + ']]' + pipe;",
+					"to": "FILES/0-Inbox/' + currentMoment.format('YYYY-MM.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 976,
+					"end": 1024,
+					"href": "' + currentMoment.format('YYYY-MM",
+					"text": "MMMM') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM|MMMM') + ']]';",
+					"to": "FILES/0-Inbox/' + currentMoment.format('YYYY-MM.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Dashboard ",
+					"start": 1448,
+					"end": 1464
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 2627,
+					"end": 2632,
+					"href": "next",
+					"context": "> tags include #next",
+					"to": "#/NEXT"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3488,
+					"end": 3496,
+					"href": "waiting",
+					"context": "> tags include #waiting",
+					"to": "#/WAITING"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3642,
+					"end": 3652,
+					"href": "delegated",
+					"context": "> tags include #delegated",
+					"to": "#/DELEGATED"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Underground ",
+					"start": 4316,
+					"end": 4333
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Logs ",
+					"start": 6039,
+					"end": 6049
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Monthly Focus & Goals ",
+					"start": 7094,
+					"end": 7124
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Journal ",
+					"start": 7187,
+					"end": 7200
+				}
+			]
+		},
+		"FILES/5-Templates/Quarterly-Notes.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 282,
+					"data": {
+						"title": "<% moment(tp.file.title, \"YYYY-[Q]Q\").format(\"YYYY-[Q]Q\") %>",
+						"date": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"lastmod": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"categories": null,
+						"tags": "quarterly-notes",
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "quarterly-notes",
+					"to": "#/QUARTERLY-NOTES"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "% momenttpfiletitle YYYY-QQformatYYYY-QQ %",
+					"start": 284,
+					"end": 346
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 543,
+					"end": 583,
+					"href": "' + currentMoment.format('YYYY') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY') + ']]' + slash;",
+					"to": "FILES/' + currentMoment.format('YYYY') + '.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1083,
+					"end": 1131,
+					"href": "' + currentMoment.format('YYYY-MM",
+					"text": "MMMM') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM|MMMM') + ']]' + pipe;",
+					"to": "FILES/0-Inbox/' + currentMoment.format('YYYY-MM.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1179,
+					"end": 1227,
+					"href": "' + currentMoment.format('YYYY-MM",
+					"text": "MMMM') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM|MMMM') + ']]' + pipe;",
+					"to": "FILES/0-Inbox/' + currentMoment.format('YYYY-MM.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1275,
+					"end": 1323,
+					"href": "' + currentMoment.format('YYYY-MM",
+					"text": "MMMM') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM|MMMM') + ']]';",
+					"to": "FILES/0-Inbox/' + currentMoment.format('YYYY-MM.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Dashboard ",
+					"start": 1379,
+					"end": 1395
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 2316,
+					"end": 2321,
+					"href": "next",
+					"context": "> tags include #next",
+					"to": "#/NEXT"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3177,
+					"end": 3185,
+					"href": "waiting",
+					"context": "> tags include #waiting",
+					"to": "#/WAITING"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3331,
+					"end": 3341,
+					"href": "delegated",
+					"context": "> tags include #delegated",
+					"to": "#/DELEGATED"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Underground ",
+					"start": 4005,
+					"end": 4022
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Logs ",
+					"start": 5728,
+					"end": 5738
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Quarterly Focus & Goals ",
+					"start": 6807,
+					"end": 6839
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Journal ",
+					"start": 6880,
+					"end": 6893
+				}
+			]
+		},
+		"FILES/5-Templates/Untitled.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 229,
+					"data": {
+						"title": "<% tp.file.title %>",
+						"date": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"lastmod": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"categories": null,
+						"tags": null,
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "% tpfiletitle %",
+					"start": 231,
+					"end": 252
+				}
+			]
+		},
+		"FILES/5-Templates/Weekly-Notes.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 281,
+					"data": {
+						"title": "<% moment(tp.file.title, \"GGGG-[W]WW\").format(\"GGGG-[W]WW\") %>",
+						"date": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"lastmod": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"categories": null,
+						"tags": "weekly-notes",
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "weekly-notes",
+					"to": "#/WEEKLY-NOTES"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "% momenttpfiletitle GGGG-WWWformatGGGG-WWW %",
+					"start": 283,
+					"end": 347
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 545,
+					"end": 585,
+					"href": "' + currentMoment.format('YYYY') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY') + ']]' + slash;",
+					"to": "FILES/' + currentMoment.format('YYYY') + '.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 671,
+					"end": 719,
+					"href": "' + currentMoment.format('YYYY-MM",
+					"text": "MMMM') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM|MMMM') + ']]' + slash;",
+					"to": "FILES/0-Inbox/' + currentMoment.format('YYYY-MM.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1262,
+					"end": 1315,
+					"href": "' + currentMoment.format('YYYY-MM-DD",
+					"text": "ddd Do') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM-DD|ddd Do') + ']]' + pipe;",
+					"to": "FILES/' + currentMoment.format('YYYY-MM-DD.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1361,
+					"end": 1414,
+					"href": "' + currentMoment.format('YYYY-MM-DD",
+					"text": "ddd Do') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM-DD|ddd Do') + ']]' + pipe;",
+					"to": "FILES/' + currentMoment.format('YYYY-MM-DD.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1460,
+					"end": 1513,
+					"href": "' + currentMoment.format('YYYY-MM-DD",
+					"text": "ddd Do') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM-DD|ddd Do') + ']]' + pipe;",
+					"to": "FILES/' + currentMoment.format('YYYY-MM-DD.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1559,
+					"end": 1612,
+					"href": "' + currentMoment.format('YYYY-MM-DD",
+					"text": "ddd Do') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM-DD|ddd Do') + ']]' + pipe;",
+					"to": "FILES/' + currentMoment.format('YYYY-MM-DD.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1658,
+					"end": 1711,
+					"href": "' + currentMoment.format('YYYY-MM-DD",
+					"text": "ddd Do') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM-DD|ddd Do') + ']]' + pipe;",
+					"to": "FILES/' + currentMoment.format('YYYY-MM-DD.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1757,
+					"end": 1810,
+					"href": "' + currentMoment.format('YYYY-MM-DD",
+					"text": "ddd Do') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM-DD|ddd Do') + ']]' + pipe;",
+					"to": "FILES/' + currentMoment.format('YYYY-MM-DD.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 1856,
+					"end": 1909,
+					"href": "' + currentMoment.format('YYYY-MM-DD",
+					"text": "ddd Do') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY-MM-DD|ddd Do') + ']]';",
+					"to": "FILES/' + currentMoment.format('YYYY-MM-DD.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Dashboard ",
+					"start": 1934,
+					"end": 1950
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3127,
+					"end": 3132,
+					"href": "next",
+					"context": "> tags include #next",
+					"to": "#/NEXT"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3988,
+					"end": 3996,
+					"href": "waiting",
+					"context": "> tags include #waiting",
+					"to": "#/WAITING"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 4142,
+					"end": 4152,
+					"href": "delegated",
+					"context": "> tags include #delegated",
+					"to": "#/DELEGATED"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Underground ",
+					"start": 4816,
+					"end": 4833
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Logs ",
+					"start": 6539,
+					"end": 6549
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Weekly Focus & Goals ",
+					"start": 7630,
+					"end": 7659
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Journal ",
+					"start": 7871,
+					"end": 7884
+				}
+			]
+		},
+		"FILES/5-Templates/Yearly-Notes.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 269,
+					"data": {
+						"title": "<% moment(tp.file.title, \"YYYY\").format(\"YYYY\") %>",
+						"date": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"lastmod": "<% moment(tp.file.creation_date()).format(\"YYYY-MM-DD HH:mm:ss\") %>",
+						"categories": null,
+						"tags": "yearly-notes",
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 5,
+					"form": "front-matter",
+					"start": 0,
+					"end": 0,
+					"href": "yearly-notes",
+					"to": "#/YEARLY-NOTES"
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "% momenttpfiletitle YYYYformatYYYY %",
+					"start": 271,
+					"end": 323
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 515,
+					"end": 555,
+					"href": "' + currentMoment.format('YYYY') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY') + ']]';",
+					"to": "FILES/' + currentMoment.format('YYYY') + '.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 655,
+					"end": 695,
+					"href": "' + currentMoment.format('YYYY') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY') + ']]' + pipe;",
+					"to": "FILES/' + currentMoment.format('YYYY') + '.md"
+				},
+				{
+					"type": 0,
+					"form": "wiki",
+					"start": 815,
+					"end": 855,
+					"href": "' + currentMoment.format('YYYY') + '",
+					"context": "tR += '[[' + currentMoment.format('YYYY') + ']]';",
+					"to": "FILES/' + currentMoment.format('YYYY') + '.md"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Dashboard ",
+					"start": 1363,
+					"end": 1379
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 2220,
+					"end": 2225,
+					"href": "next",
+					"context": "> tags include #next",
+					"to": "#/NEXT"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3081,
+					"end": 3089,
+					"href": "waiting",
+					"context": "> tags include #waiting",
+					"to": "#/WAITING"
+				},
+				{
+					"type": 5,
+					"form": "tag",
+					"start": 3235,
+					"end": 3245,
+					"href": "delegated",
+					"context": "> tags include #delegated",
+					"to": "#/DELEGATED"
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Underground ",
+					"start": 3909,
+					"end": 3926
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Logs ",
+					"start": 5632,
+					"end": 5642
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Yearly Focus & Goals ",
+					"start": 6651,
+					"end": 6680
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Journal ",
+					"start": 6715,
+					"end": 6728
+				}
+			]
+		},
+		"FILES/Journal 2024 📔.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 136,
+					"data": {
+						"title": "Journal 2024 📔",
+						"date": "2023-05-03 18:15:57",
+						"lastmod": "2024-01-03 09:48:34",
+						"categories": [
+							null
+						],
+						"tags": [
+							null
+						],
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Journal 2024 ",
+					"start": 138,
+					"end": 155
+				},
+				{
+					"type": 1,
+					"form": "wiki",
+					"start": 222,
+					"end": 276,
+					"href": "2023-09-27_14-22-16_color_palette_journal.png",
+					"text": "250",
+					"context": "![[2023-09-27_14-22-16_color_palette_journal.png|250]]",
+					"to": "FILES/2023-09-27_14-22-16_color_palette_journal.png"
+				}
+			]
+		},
+		"FILES/Passions Backlog 🎮.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 30,
+					"data": {
+						"kanban-plugin": "basic"
+					}
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Wishlist",
+					"start": 32,
+					"end": 43
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Possessions",
+					"start": 45,
+					"end": 59
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Backlog",
+					"start": 61,
+					"end": 71
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Doing",
+					"start": 73,
+					"end": 81
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Doing On The Go",
+					"start": 83,
+					"end": 101
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Doing Couple",
+					"start": 103,
+					"end": 118
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Doing Friends",
+					"start": 120,
+					"end": 136
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "2024",
+					"start": 138,
+					"end": 145
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Abandonned",
+					"start": 147,
+					"end": 160
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Never Tried Never Will",
+					"start": 162,
+					"end": 188
+				}
+			]
+		},
+		"FILES/README.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Main-Notes",
+					"start": 0,
+					"end": 12
+				}
+			]
+		},
+		"FILES/Someday Maybe 💭.md": {
+			"modified": "2025-02-24T15:33:14.946Z",
+			"structure": [
+				{
+					"type": 3,
+					"start": 0,
+					"end": 134,
+					"data": {
+						"title": "Someday Maybe 💭",
+						"date": "2023-05-04 09:31:12",
+						"lastmod": "2024-01-03 17:57:47",
+						"categories": [
+							null
+						],
+						"tags": [
+							null
+						],
+						"aliases": null,
+						"share": false
+					}
+				},
+				{
+					"type": 2,
+					"level": 1,
+					"text": "Someday Maybe ",
+					"start": 136,
+					"end": 154
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Inbox",
+					"start": 156,
+					"end": 164
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Area 1",
+					"start": 166,
+					"end": 175
+				},
+				{
+					"type": 2,
+					"level": 2,
+					"text": "Area 2",
+					"start": 177,
+					"end": 186
+				}
+			]
+		},
+		"FILES/2025.md": {
+			"virtual": true
+		},
+		"FILES/2025-Q1.md": {
+			"virtual": true
+		},
+		"FILES/2025-02.md": {
+			"virtual": true
+		},
+		"FILES/2025-W06.md": {
+			"virtual": true
+		},
+		"FILES/2025-02-02.md": {
+			"virtual": true
+		},
+		"FILES/2025-02-04.md": {
+			"virtual": true
+		},
+		"FILES/Denial of service attacks.md": {
+			"virtual": true
+		},
+		"FILES/redundancy.md": {
+			"virtual": true
+		},
+		"FILES/attacker.md": {
+			"virtual": true
+		},
+		"FILES/system.md": {
+			"virtual": true
+		},
+		"FILES/Security Controls.md": {
+			"virtual": true
+		},
+		"FILES/Personally identifiable information PII.md": {
+			"virtual": true
+		},
+		"FILES/Protected Health Information PHI.md": {
+			"virtual": true
+		},
+		"FILES/Reasonable Expectation of Privacy.md": {
+			"virtual": true
+		},
+		"FILES/' + currentMoment.format('YYYY') + '.md": {
+			"virtual": true
+		},
+		"FILES/' + currentMoment.format('YYYY-MM-DD.md": {
+			"virtual": true
+		},
+		"FILES/2023-09-27_14-22-16_color_palette_journal.png": {
+			"virtual": true
+		}
+	}
+}

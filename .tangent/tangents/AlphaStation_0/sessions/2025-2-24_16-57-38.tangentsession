@@ -1,0 +1,23 @@
+{
+	"threadHistory": [
+		{
+			"thread": [
+				"FILES/3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md"
+			],
+			"currentNode": "FILES/3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md"
+		}
+	],
+	"threadIndex": 0,
+	"previousSession": "",
+	"map": {
+		"nodes": {
+			"FILES/3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md": {
+				"node": "FILES/3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md",
+				"isRoot": false,
+				"strength": 2,
+				"dateCreated": "2025-02-24T15:57:46.697Z"
+			}
+		},
+		"connections": []
+	}
+}
