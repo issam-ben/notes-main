@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Resources/Learning/LFCS/05-Storage/02.Manage and configure LVM storage.md",
+                "file": "3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02.Manage and configure LVM storage"
+              "title": "01.List, Create, Delete, and Modify Physical Storage Partitions"
             }
           }
         ],
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "01c05ec8b230b6ba",
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md",
+                "file": "3-Resources/Learning/LFCS/05-Storage/02.Manage and configure LVM storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01.List, Create, Delete, and Modify Physical Storage Partitions"
+              "title": "Backlinks for 02.Manage and configure LVM storage"
             }
           },
           {
@@ -151,11 +150,27 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3-Resources/Learning/LFCS/05-Storage/02.Manage and configure LVM storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 02.Manage and configure LVM storage"
+            }
+          },
+          {
+            "id": "25fa4c7ec9d0de98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3-Resources/Learning/LFCS/05-Storage/02.Manage and configure LVM storage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02.Manage and configure LVM storage"
             }
           },
           {
@@ -165,20 +180,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "25fa4c7ec9d0de98",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
             }
           },
           {
@@ -201,11 +208,12 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -228,9 +236,10 @@
   },
   "active": "0501485748af9bf6",
   "lastOpenFiles": [
+    "3-Resources/Learning/LFCS/05-Storage/03.Configure Systems to Mount Filesystems at or During Boot.md",
+    "3-Resources/Learning/LFCS/05-Storage/02.Manage and configure LVM storage.md",
     "3-Resources/Learning/LFCS/01-Essential Commands/02.Read, and use system documentation.md",
     "3-Resources/Learning/LFCS/01-Essential Commands/01.Log into local & remote graphical and text mode consoles.md",
-    "3-Resources/Learning/LFCS/05-Storage/02.Manage and configure LVM storage.md",
     "3-Resources/Learning/LFCS/05-Storage/01.List, Create, Delete, and Modify Physical Storage Partitions.md",
     "3-Resources/Learning/My Machine/Linux/Command Line/Tools/Storage Tools/fdisk.md",
     "3-Resources/Learning/My Machine/Linux/Command Line/Tools/Storage Tools",
@@ -259,7 +268,6 @@
     "3-Resources/Learning/LFCS/04-Networking/99.Appendixes/00. Network Config tools.md",
     "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.2 - Understand the risk management process/Risk Management.md",
     "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Privacy.md",
-    "3-Resources/Learning/ISC2 CC/1.Security Prenciples/1.1 - Understand the security concepts of information assurance/Non-Repudiation.md",
     "3-Resources/Learning/LFCS/01-Essential Commands/Linux-redirection-normal-flow.png",
     "3-Resources/Learning/LFCS/02-Operations Deployment/Boot proccess.canvas",
     "3-Resources/Learning/ISC2 CC/Untitled.canvas",

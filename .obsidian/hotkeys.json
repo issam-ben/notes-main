@@ -96,8 +96,8 @@
   "obsidian-zotero-desktop-connector:zdc-IEEE-URL": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "Z"
     }
